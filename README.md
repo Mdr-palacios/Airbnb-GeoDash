@@ -34,8 +34,7 @@
 ## Project Structure
 
 - `app.py`: The main Streamlit application file
-- `listings_project.pkl`: Pickle file containing the Airbnb listings data
-- `calendar_project.parquet`: Parquet file containing the calendar data
+- `WK2_Airbnb_Amsterdam_listings_proj_solution.csv': Pickle file containing the Airbnb listings data
 - `requirements.txt`: List of required Python packages
 
 ## How It Works
