@@ -34,7 +34,7 @@
 ## Project Structure
 
 - `app.py`: The main Streamlit application file
-- `WK2_Airbnb_Amsterdam_listings_proj_solution.csv': Pickle file containing the Airbnb listings data
+- `WK2_Airbnb_Amsterdam_listings_proj_solution.csv`: Pickle file containing the Airbnb listings data
 - `requirements.txt`: List of required Python packages
 
 ## How It Works
